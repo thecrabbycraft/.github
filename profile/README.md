@@ -1,3 +1,7 @@
+<p align="center"><img src="./banner.svg" width="500" height="120" alt="Project Logo"></p>
+
+<p align="center"><img src="./separator.jpg" width="100%" alt="Project Logo"></p>
+
 ## Hi there 👋
 
 Hello! We are Feelantera, and we love crafting software.
