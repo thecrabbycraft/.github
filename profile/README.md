@@ -1,6 +1,7 @@
+<!--
 <p align="center"><img src="https://github.com/feelantera/.github/blob/main/profile/banner.svg" width="500" alt="Project Logo"></p>
-
 <p align="center"><img src="https://github.com/feelantera/.github/blob/main/profile/separator.jpg" width="100%" alt="Project Logo"></p>
+-->
 
 ## Hi there 👋
 
