@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/thecrabbycraft/.github/blob/main/profile/banner.svg" width="500" alt="Crabby Craft Banner"></p>
-<p align="center"><img src="https://github.com/thecrabbycraft/.github/blob/main/profile/separator.jpg" width="100%" alt="Separator"></p>
+<!--p align="center"><img src="https://github.com/thecrabbycraft/.github/blob/main/profile/banner.svg" width="500" alt="Crabby Craft Banner"></p-->
 
 ## Hi there 👋
 
@@ -12,3 +11,5 @@ We try our best, and we make  sure we deliver the best, and we make it happen.
 We’re focused and deeply experienced in the technology powering today’s best businesses.
 
 Good life with better software.
+
+<p align="center"><img src="https://github.com/thecrabbycraft/.github/blob/main/profile/separator.jpg" width="100%" alt="Separator"></p>
